@@ -25,3 +25,22 @@ Archivo data.csv en el aula virtual
 - Indexar por CER los valores monetarios
 - Sacar outlaierts de todo lo numerico utilizando revisando la distribución
 - Completar nulos segun el caso (media probablemente o valor no nulo previo)
+
+### Varibles
+
+#### Identity features
+
+- Client_ID: Identificador único del cliente.
+- Sex: Género del cliente (por ejemplo, masculino o femenino).
+- Client_Age_grp: Grupo de edad del cliente.
+- Region: Región geográfica del cliente.
+- Mobile: Indicador de si el cliente tiene un número de teléfono móvil.
+- Email: Indicador de si el cliente tiene una dirección de correo electrónico.
+
+#### Transform features
+
+- a
+
+#### Aggregate features
+
+- s
