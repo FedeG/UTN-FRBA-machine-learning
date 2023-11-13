@@ -2,5 +2,8 @@
     "cSpell.words": [
         "cobranding",
         "skipfooter"
-    ]
+    ],
+    "python.linting.flake8Enabled": false,
+    "flake8.logLevel": "off",
+    "python.linting.enabled": false
 }
